@@ -98,7 +98,7 @@ body {
 
 /* Hero Section */
  .hero-section {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/image`s/main-img-bg.jpeg) center/cover no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image`s/main-img-bg.jpeg) center/cover no-repeat;
   height: 700px;
   /* Adjust height as needed */
   display: flex;
